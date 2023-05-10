@@ -5,3 +5,4 @@ Il client invia al server un **oggetto di tipo Richiesta**, che il server riceve
 Infine il client stamperà.
 - Questo e molto altro. [Visita il mio sito](https://nbernardi.tk);
 - [Donazioni qui - donate me](https://paypal.me/gazzettaleviponti);
+## Codice concesso sotto **Licenza AGPL 3.0**
